@@ -1,0 +1,46 @@
+﻿# Dependencies
+node_modules/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Build
+build/
+dist/
+
+# Database
+*.sqlite
+*.db
+
+# Coverage
+coverage/
+.coverage
+htmlcov/
+
+# Documents (kept locally, not part of the codebase)
+*.docx
+*.doc
+*.pdf
+
+# Third-party pip bootstrap script
+ml-service/get-pip.py
