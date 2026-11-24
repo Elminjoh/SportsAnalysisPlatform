@@ -25,7 +25,7 @@ sports-performance-analytics/
 See [SETUP_GUIDE.md](./SETUP_GUIDE.md) for detailed instructions.
 
 ### Author
-[Your Name] - [University Name]
+Njoh Elmi Mtanase
 
 ### Academic Year
 2025/2026
